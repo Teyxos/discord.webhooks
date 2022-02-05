@@ -1,2 +1,9 @@
 # Test folder
 tests
+
+# Dist
+dist
+discord.webhooks.egg-info
+
+# Misc
+*/__pycache__

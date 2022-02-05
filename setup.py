@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="discord.webhooks",
+    name="teyxos-discord.webhooks",
     version="1.0.0",
     description="A simple discord-webhook tool for python",
     long_description=README,
@@ -21,7 +21,6 @@ setup(
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.7",
     ],
     packages=["webhooks"],
     include_package_data=True,
