@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="teyxos-discord.webhooks",
+    name="teyxos.webhooks",
     version="1.0.0",
     description="A simple discord-webhook tool for python",
     long_description=README,

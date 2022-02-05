@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "teyxos-discord.webhooks"
+name = "teyxos.webhooks"
 version = "1.0.0"
 description = ""
 authors = ["Teyxos <teyxosesp@gmail.com>"]

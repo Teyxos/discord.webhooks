@@ -3,7 +3,7 @@ tests
 
 # Dist
 dist
-discord.webhooks.egg-info
+teyxos.webhooks.egg-info
 
 # Misc
 */__pycache__
