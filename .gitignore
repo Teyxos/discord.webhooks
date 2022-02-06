@@ -1,9 +1,0 @@
-# Test folder
-tests
-
-# Dist
-dist
-teyxos.webhooks.egg-info
-
-# Misc
-*/__pycache__
